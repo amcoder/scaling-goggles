@@ -1,0 +1,12 @@
+.gradle
+build
+minecraft
+
+eclipse
+
+.idea
+*.iml
+local.properties
+
+*.jar
+*.class

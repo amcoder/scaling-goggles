@@ -1,0 +1,16 @@
+[
+{
+  "modid": "scaling-goggles",
+  "name": "Scaling Goggles",
+  "description": "Scaling Goggles Does Something",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/amcoder/scaling-goggles",
+  "updateUrl": "",
+  "authorList": ["amcoder"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
